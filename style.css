@@ -1,0 +1,40 @@
+.logo {
+
+    width: 150px;
+}
+
+h6 {
+
+    color:orangered;
+}
+.container{
+
+    margin-bottom: 50px;
+}
+.carousel-item {
+
+    padding: 20px 40px;
+}
+
+.buy-now {
+
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.Smartphone img {
+
+    margin: 20px 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Smartphone {
+    
+    border: none;
+    text-align: center;
+    
+}
