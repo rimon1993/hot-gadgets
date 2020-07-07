@@ -13,6 +13,11 @@ h6 {
 
     color:orangered;
 }
+
+.manu-color a {
+
+    font-weight: bold;
+}
 .container{
 
     margin-bottom: 50px;
@@ -100,16 +105,14 @@ h6 {
     
     background-color: palegreen;
     text-align: center;
-    height: 180px;
-    padding-top: 30px;
+    height: 220px;
+    padding-top: 40px;
+    padding-bottom: 20px;
     border-radius: 10px;
 }
 
 
-.manu-color a {
 
-    font-weight: bold;
-}
 
 
 .footer-bar {
