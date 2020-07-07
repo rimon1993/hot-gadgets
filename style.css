@@ -59,7 +59,7 @@ h6 {
 .categories {
 
     text-align: center;
-    margin-bottom: 50px;
+    
 }
 
 .cat1 img {
@@ -117,7 +117,16 @@ h6 {
 }
 
 
+.underline {
 
+    background-color: purple;
+    margin-left: 450px;
+    height: 5px;
+    width: 200px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+
+}
 
 
 .footer-bar {
