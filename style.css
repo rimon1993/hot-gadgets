@@ -24,12 +24,17 @@ h6 {
 
 .buy-now {
 
-    background-color: black;
+    background-color:purple;
     color: white;
     border-radius: 8px;
     padding: 10px;
 }
 
+
+.buy-now:hover {
+
+   background-color: orangered;
+}
 .Smartphone img {
 
     margin: 20px 20px;
@@ -91,3 +96,23 @@ h6 {
     
 }
 
+.contuctus {
+    
+    background-color: palegreen;
+    text-align: center;
+    height: 180px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+
+
+.manu-color a {
+
+    font-weight: bold;
+}
+
+
+.footer-bar {
+
+    text-align: center;
+}
